@@ -1,2 +1,2 @@
-# DesignPatternInJava
-设计模式Java描述
+# `设计模式Java描述`
+* 简单工厂模式
