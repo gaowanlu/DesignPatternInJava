@@ -12,8 +12,8 @@ public class Main {
             String type="";
             type=input.nextLine();
             //构造结算类
-            CashSuper Count=CashSuperCreator.create(type);
-            System.out.println(Count.algorithm(232.434));
+            Cal cal=new Cal(type);
+            System.out.println(cal.getCal(400));
         }
     }
 }
