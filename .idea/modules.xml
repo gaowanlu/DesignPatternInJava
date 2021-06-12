@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/001H_简单工厂模式/001H_简单工厂模式.iml" filepath="$PROJECT_DIR$/001H_简单工厂模式/001H_简单工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002H_策略模式/002H_策略模式.iml" filepath="$PROJECT_DIR$/002H_策略模式/002H_策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003H_单一职责原则/003H_单一职责原则.iml" filepath="$PROJECT_DIR$/003H_单一职责原则/003H_单一职责原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004H_开放-封闭原则/004H_开放-封闭原则.iml" filepath="$PROJECT_DIR$/004H_开放-封闭原则/004H_开放-封闭原则.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternInJava.iml" filepath="$PROJECT_DIR$/DesignPatternInJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/策略模式/策略模式.iml" filepath="$PROJECT_DIR$/策略模式/策略模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" filepath="$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" />
     </modules>
   </component>
 </project>
