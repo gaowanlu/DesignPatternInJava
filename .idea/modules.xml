@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/005H_依赖倒转原则/005H_依赖倒转原则.iml" filepath="$PROJECT_DIR$/005H_依赖倒转原则/005H_依赖倒转原则.iml" />
       <module fileurl="file://$PROJECT_DIR$/006H_装饰模式/006H_装饰模式.iml" filepath="$PROJECT_DIR$/006H_装饰模式/006H_装饰模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/007H_代理模式/007H_代理模式.iml" filepath="$PROJECT_DIR$/007H_代理模式/007H_代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008H_工厂方法模式/008H_工厂方法模式.iml" filepath="$PROJECT_DIR$/008H_工厂方法模式/008H_工厂方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009H_原型模式/009H_原型模式.iml" filepath="$PROJECT_DIR$/009H_原型模式/009H_原型模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternInJava.iml" filepath="$PROJECT_DIR$/DesignPatternInJava.iml" />
     </modules>
   </component>
