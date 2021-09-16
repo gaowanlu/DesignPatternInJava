@@ -4,16 +4,19 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/001H_简单工厂模式/001H_简单工厂模式.iml" filepath="$PROJECT_DIR$/001H_简单工厂模式/001H_简单工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/002H_策略模式/002H_策略模式.iml" filepath="$PROJECT_DIR$/002H_策略模式/002H_策略模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/003H_单一职责原则/003H_单一职责原则.iml" filepath="$PROJECT_DIR$/003H_单一职责原则/003H_单一职责原则.iml" />
-      <module fileurl="file://$PROJECT_DIR$/004H_开放-封闭原则/004H_开放-封闭原则.iml" filepath="$PROJECT_DIR$/004H_开放-封闭原则/004H_开放-封闭原则.iml" />
-      <module fileurl="file://$PROJECT_DIR$/005H_依赖倒转原则/005H_依赖倒转原则.iml" filepath="$PROJECT_DIR$/005H_依赖倒转原则/005H_依赖倒转原则.iml" />
-      <module fileurl="file://$PROJECT_DIR$/006H_装饰模式/006H_装饰模式.iml" filepath="$PROJECT_DIR$/006H_装饰模式/006H_装饰模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/007H_代理模式/007H_代理模式.iml" filepath="$PROJECT_DIR$/007H_代理模式/007H_代理模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/008H_工厂方法模式/008H_工厂方法模式.iml" filepath="$PROJECT_DIR$/008H_工厂方法模式/008H_工厂方法模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/009H_原型模式/009H_原型模式.iml" filepath="$PROJECT_DIR$/009H_原型模式/009H_原型模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/010H_模板模式/010H_模板模式.iml" filepath="$PROJECT_DIR$/010H_模板模式/010H_模板模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/011H_外观模式/011H_外观模式.iml" filepath="$PROJECT_DIR$/011H_外观模式/011H_外观模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003H_装饰模式/003H_装饰模式.iml" filepath="$PROJECT_DIR$/003H_装饰模式/003H_装饰模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004H_代理模式/004H_代理模式.iml" filepath="$PROJECT_DIR$/004H_代理模式/004H_代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005H_工厂方法模式/005H_工厂方法模式.iml" filepath="$PROJECT_DIR$/005H_工厂方法模式/005H_工厂方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006H_原型模式/006H_原型模式.iml" filepath="$PROJECT_DIR$/006H_原型模式/006H_原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007H_模板模式/007H_模板模式.iml" filepath="$PROJECT_DIR$/007H_模板模式/007H_模板模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008H_外观模式/008H_外观模式.iml" filepath="$PROJECT_DIR$/008H_外观模式/008H_外观模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009H_建造者模式/009H_建造者模式.iml" filepath="$PROJECT_DIR$/009H_建造者模式/009H_建造者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010H_观察者模式/010H_观察者模式.iml" filepath="$PROJECT_DIR$/010H_观察者模式/010H_观察者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternInJava.iml" filepath="$PROJECT_DIR$/DesignPatternInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/依赖倒转原则/依赖倒转原则.iml" filepath="$PROJECT_DIR$/依赖倒转原则/依赖倒转原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/单一职责原则/单一职责原则.iml" filepath="$PROJECT_DIR$/单一职责原则/单一职责原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/开放-封闭原则/开放-封闭原则.iml" filepath="$PROJECT_DIR$/开放-封闭原则/开放-封闭原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/迪米特法则/迪米特法则.iml" filepath="$PROJECT_DIR$/迪米特法则/迪米特法则.iml" />
     </modules>
   </component>
 </project>

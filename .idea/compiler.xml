@@ -9,7 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="003H_单一职责原则" target="1.5" />
+      <module name="单一职责原则" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
