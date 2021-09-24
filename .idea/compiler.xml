@@ -9,6 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="013H_适配器模式" target="15" />
       <module name="单一职责原则" target="1.5" />
     </bytecodeTargetLevel>
   </component>

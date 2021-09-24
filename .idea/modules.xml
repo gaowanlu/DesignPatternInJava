@@ -13,11 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/009H_建造者模式/009H_建造者模式.iml" filepath="$PROJECT_DIR$/009H_建造者模式/009H_建造者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/010H_观察者模式/010H_观察者模式.iml" filepath="$PROJECT_DIR$/010H_观察者模式/010H_观察者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/011H_抽象工厂模式/011H_抽象工厂模式.iml" filepath="$PROJECT_DIR$/011H_抽象工厂模式/011H_抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012H_状态模式/012H_状态模式.iml" filepath="$PROJECT_DIR$/012H_状态模式/012H_状态模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013H_适配器模式/013H_适配器模式.iml" filepath="$PROJECT_DIR$/013H_适配器模式/013H_适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014H_备忘录模式/014H_备忘录模式.iml" filepath="$PROJECT_DIR$/014H_备忘录模式/014H_备忘录模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternInJava.iml" filepath="$PROJECT_DIR$/DesignPatternInJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/依赖倒转原则/依赖倒转原则.iml" filepath="$PROJECT_DIR$/依赖倒转原则/依赖倒转原则.iml" />
-      <module fileurl="file://$PROJECT_DIR$/单一职责原则/单一职责原则.iml" filepath="$PROJECT_DIR$/单一职责原则/单一职责原则.iml" />
-      <module fileurl="file://$PROJECT_DIR$/开放-封闭原则/开放-封闭原则.iml" filepath="$PROJECT_DIR$/开放-封闭原则/开放-封闭原则.iml" />
-      <module fileurl="file://$PROJECT_DIR$/迪米特法则/迪米特法则.iml" filepath="$PROJECT_DIR$/迪米特法则/迪米特法则.iml" />
     </modules>
   </component>
 </project>
