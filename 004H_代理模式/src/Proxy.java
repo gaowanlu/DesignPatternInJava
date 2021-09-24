@@ -1,7 +1,3 @@
-package 符合实际的代码;
-
-import 没有代理代码.SchoolGirl;
-
 public class Proxy implements GiveGift{
     Pursuit gg;
     public Proxy(SchoolGirl mm){

@@ -1,5 +1,3 @@
-package 没有代理代码;
-
 public class SchoolGirl {
     private String name;
 

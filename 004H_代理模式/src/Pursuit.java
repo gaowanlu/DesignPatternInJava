@@ -1,10 +1,7 @@
-package 只有代理的代码;
-
-import 没有代理代码.SchoolGirl;
-
-public class Proxy {
+//追求者类
+public class Pursuit implements GiveGift{
     SchoolGirl mm;
-    public Proxy(SchoolGirl mm){
+    public Pursuit(SchoolGirl mm){
         this.mm=mm;
     }
     public void GiveDolls(){
